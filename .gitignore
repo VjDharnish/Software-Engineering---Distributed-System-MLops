@@ -1,0 +1,48 @@
+# Obsidian
+.obsidian/
+*.md~      # backup files
+.vault/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.env
+.ipynb_checkpoints/
+
+# Go
+bin/
+pkg/
+*.exe
+*.test
+
+# MLOps / ML experiments
+mlruns/        # MLflow tracking directory
+wandb/         # Weights & Biases logs
+*.h5           # Keras / TensorFlow model weights
+*.ckpt         # PyTorch checkpoints
+*.pt
+*.log
+*.csv
+*.tsv
+
+# Docker
+*.dockerfile
+docker-compose.override.yml
+
+# VSCode / Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
