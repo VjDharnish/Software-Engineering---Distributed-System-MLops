@@ -1,0 +1,3 @@
+# 🎓 Courses
+
+- Add courses here
