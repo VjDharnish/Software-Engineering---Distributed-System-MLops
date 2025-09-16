@@ -3,13 +3,13 @@ Tags: #Foundations #CS #Engineering
 ## 📌 Core Topics
 
 ### Programming & Algorithms
-- [ ] Big-O Notation, Time & Space Complexity
+- [x] Big-O Notation, Time & Space Complexity
 - [ ] Data Structures (Arrays, Linked Lists, Hash Maps, Trees, Graphs)
 - [ ] Sorting & Searching Algorithms
 - [ ] Dynamic Programming Basics
 
 ### Operating Systems
-- [ ] Processes vs Threads
+- [x] Processes vs Threads
 - [ ] Scheduling Algorithms
 - [ ] Memory Management (Paging, Segmentation)
 - [ ] File Systems
@@ -23,11 +23,11 @@ Tags: #Foundations #CS #Engineering
 - [ ] Latency vs Throughput
 
 ### Databases
-- [ ] Relational vs NoSQL
+- [x] Relational vs NoSQL
 - [ ] ACID vs BASE
 - [ ] Indexing & Query Optimization
 - [ ] Transactions & Concurrency Control
-- [ ] Replication & Sharding Basics
+- [x] Replication & Sharding Basics
 
 ### Software Engineering Principles
 - [ ] SOLID, DRY, KISS
@@ -41,7 +41,7 @@ Tags: #Foundations #CS #Engineering
 ## 🔗 Links to Other Notes
 - See [[System_Design]] for applying these concepts in large-scale systems.
 - Related to [[Distributed Systems – Core Concepts]] for distributed architecture.
-- Supports [[02_MLOps/Core_Concepts]] when building scalable ML systems.
+- Supports [[Core Concepts]] when building scalable ML systems.
 
 ---
 
