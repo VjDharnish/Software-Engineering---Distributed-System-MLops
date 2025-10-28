@@ -30,7 +30,9 @@ Tags: #Foundations #CS #Engineering
 - [x] Replication & Sharding Basics
 
 ### Software Engineering Principles
-- [ ] SOLID, DRY, KISS
+- [x] SOLID,
+- [ ] DRY,
+- [ ] KISS
 - [ ] Version Control (Git branching strategies)
 - [ ] Testing (Unit, Integration, E2E)
 - [ ] Design Patterns (Singleton, Observer, Factory, etc.)
