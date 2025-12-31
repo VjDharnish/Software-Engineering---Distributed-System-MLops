@@ -1,0 +1,2 @@
+- https://medium.com/@kanishks772/stop-reading-theory-these-18-real-systems-explain-90-of-software-engineering-b37f68c303d9
+- http://medium.com/@kanishks772/every-dsa-problem-is-just-one-of-these-15-patterns-once-you-see-it-you-cant-unsee-it-2d9deb0fe0e5
