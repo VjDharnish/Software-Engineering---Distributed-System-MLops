@@ -10,7 +10,6 @@ Tags: #Resources #DistributedSystems
 ## 🎥 Courses
 - MIT 6.824 Distributed Systems
 - Stanford CS244b Distributed Systems
-- [Distributed Systems @ CMU](https://www.cs.cmu.edu/~dga/15-440/F12/)
 
 ## 📝 Articles & Blogs
 - “Fallacies of Distributed Computing” – Sun Microsystems
